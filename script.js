@@ -1,7 +1,7 @@
 ﻿const workoutPlans = {
   recomposicao: {
     id: "recomposicao",
-    title: "Meu treino â€” RecomposiÃ§Ã£o corporal",
+    title: "Leonardo",
     summary: "IntermediÃ¡rio Â· 3 dias por semana Â· AtÃ© 120 minutos por sessÃ£o Â· Perda de gordura com preservaÃ§Ã£o e desenvolvimento muscular. ÃŠnfase em peito, costas, ombros e braÃ§os, com condicionamento de pernas e aerÃ³bico.",
     days: [
       { id: "segunda", day: "Segunda-feira", shortDay: "Segunda", focus: "Peito, trÃ­ceps e quadrÃ­ceps", session: "TREINO A", exercises: [
@@ -36,7 +36,7 @@
   },
   evolucao: {
     id: "evolucao",
-    title: "Projeto EvoluÃ§Ã£o â€” Iniciante",
+    title: "Eduarda",
     summary: "Iniciante Â· 3 dias por semana Â· Aproximadamente 60 minutos por sessÃ£o Â· Fortalecimento geral e desenvolvimento muscular, com Ãªnfase em glÃºteos e pernas e fortalecimento da parte superior do corpo.",
     days: [
       { id: "segunda", day: "Segunda-feira", shortDay: "Segunda", focus: "Treino A Â· ÃŠnfase em glÃºteos e pernas", session: "TREINO A", duration: "Aproximadamente 60 minutos, incluindo aquecimento", exercises: [
