@@ -2,66 +2,66 @@
   recomposicao: {
     id: "recomposicao",
     title: "Leonardo",
-    summary: "IntermediÃ¡rio Â· 3 dias por semana Â· AtÃ© 120 minutos por sessÃ£o Â· Perda de gordura com preservaÃ§Ã£o e desenvolvimento muscular. ÃŠnfase em peito, costas, ombros e braÃ§os, com condicionamento de pernas e aerÃ³bico.",
+    summary: "Intermediário · 3 dias por semana · Até 120 minutos por sessão · Perda de gordura com preservação e desenvolvimento muscular. Ênfase em peito, costas, ombros e braços, com condicionamento de pernas e aeróbico.",
     days: [
-      { id: "segunda", day: "Segunda-feira", shortDay: "Segunda", focus: "Peito, trÃ­ceps e quadrÃ­ceps", session: "TREINO A", exercises: [
-        { id: "supino-inclinado", name: "Supino inclinado (mÃ¡quina ou halteres)", sets: "4", reps: "8â€“10" },
-        { id: "chest-press", name: "Chest Press", sets: "3", reps: "8â€“12" },
-        { id: "crucifixo-maquina", name: "Crucifixo mÃ¡quina", sets: "3", reps: "12â€“15" },
-        { id: "triceps-polia", name: "TrÃ­ceps na polia", sets: "3", reps: "10â€“12" },
-        { id: "triceps-frances", name: "TrÃ­ceps francÃªs", sets: "3", reps: "10â€“12" },
-        { id: "leg-press", name: "Leg Press", sets: "3", reps: "15â€“20" },
-        { id: "cadeira-extensora", name: "Cadeira extensora", sets: "3", reps: "15â€“20" },
-      ], cardio: { machine: "Esteira", icon: "â†—" } },
-      { id: "quarta", day: "Quarta-feira", shortDay: "Quarta", focus: "Costas, bÃ­ceps e posteriores", session: "TREINO B", exercises: [
-        { id: "puxada-alta", name: "Puxada alta (Pulldown)", sets: "4", reps: "8â€“12" },
-        { id: "remada-sentada", name: "Remada sentada", sets: "4", reps: "8â€“12" },
-        { id: "remada-articulada", name: "Remada articulada", sets: "3", reps: "10â€“12" },
-        { id: "rosca-direta", name: "Rosca direta", sets: "3", reps: "8â€“12" },
-        { id: "rosca-scott", name: "Rosca Scott", sets: "3", reps: "10â€“12" },
-        { id: "mesa-flexora", name: "Mesa flexora", sets: "3", reps: "12â€“15" },
-        { id: "cadeira-abdutora", name: "Cadeira abdutora", sets: "3", reps: "15â€“20" },
-      ], cardio: { machine: "ElÃ­ptico", icon: "â—Œ" } },
-      { id: "sexta", day: "Sexta-feira", shortDay: "Sexta", focus: "Ombros, braÃ§os, peito e pernas", session: "TREINO C", exercises: [
-        { id: "desenvolvimento-ombros", name: "Desenvolvimento de ombros", sets: "3", reps: "8â€“12" },
-        { id: "elevacao-lateral", name: "ElevaÃ§Ã£o lateral", sets: "3", reps: "12â€“15" },
-        { id: "supino-maquina", name: "Supino mÃ¡quina", sets: "3", reps: "10â€“12" },
-        { id: "rosca-martelo", name: "Rosca martelo", sets: "3", reps: "10â€“12" },
-        { id: "triceps-corda", name: "TrÃ­ceps corda", sets: "3", reps: "10â€“12" },
+      { id: "segunda", day: "Segunda-feira", shortDay: "Segunda", focus: "Peito, tríceps e quadríceps", session: "TREINO A", exercises: [
+        { id: "supino-inclinado", name: "Supino inclinado (máquina ou halteres)", sets: "4", reps: "8–10" },
+        { id: "chest-press", name: "Chest Press", sets: "3", reps: "8–12" },
+        { id: "crucifixo-maquina", name: "Crucifixo máquina", sets: "3", reps: "12–15" },
+        { id: "triceps-polia", name: "Tríceps na polia", sets: "3", reps: "10–12" },
+        { id: "triceps-frances", name: "Tríceps francês", sets: "3", reps: "10–12" },
+        { id: "leg-press", name: "Leg Press", sets: "3", reps: "15–20" },
+        { id: "cadeira-extensora", name: "Cadeira extensora", sets: "3", reps: "15–20" },
+      ], cardio: { machine: "Esteira", icon: "↗" } },
+      { id: "quarta", day: "Quarta-feira", shortDay: "Quarta", focus: "Costas, bíceps e posteriores", session: "TREINO B", exercises: [
+        { id: "puxada-alta", name: "Puxada alta (Pulldown)", sets: "4", reps: "8–12" },
+        { id: "remada-sentada", name: "Remada sentada", sets: "4", reps: "8–12" },
+        { id: "remada-articulada", name: "Remada articulada", sets: "3", reps: "10–12" },
+        { id: "rosca-direta", name: "Rosca direta", sets: "3", reps: "8–12" },
+        { id: "rosca-scott", name: "Rosca Scott", sets: "3", reps: "10–12" },
+        { id: "mesa-flexora", name: "Mesa flexora", sets: "3", reps: "12–15" },
+        { id: "cadeira-abdutora", name: "Cadeira abdutora", sets: "3", reps: "15–20" },
+      ], cardio: { machine: "Elíptico", icon: "◌" } },
+      { id: "sexta", day: "Sexta-feira", shortDay: "Sexta", focus: "Ombros, braços, peito e pernas", session: "TREINO C", exercises: [
+        { id: "desenvolvimento-ombros", name: "Desenvolvimento de ombros", sets: "3", reps: "8–12" },
+        { id: "elevacao-lateral", name: "Elevação lateral", sets: "3", reps: "12–15" },
+        { id: "supino-maquina", name: "Supino máquina", sets: "3", reps: "10–12" },
+        { id: "rosca-martelo", name: "Rosca martelo", sets: "3", reps: "10–12" },
+        { id: "triceps-corda", name: "Tríceps corda", sets: "3", reps: "10–12" },
         { id: "leg-press", name: "Leg Press", sets: "3", reps: "15" },
         { id: "mesa-flexora", name: "Mesa flexora", sets: "3", reps: "15" },
-        { id: "panturrilha", name: "Panturrilha", sets: "3", reps: "15â€“20" },
-      ], cardio: { machine: "Bicicleta ergomÃ©trica", icon: "â†»" } },
+        { id: "panturrilha", name: "Panturrilha", sets: "3", reps: "15–20" },
+      ], cardio: { machine: "Bicicleta ergométrica", icon: "↻" } },
     ],
   },
   evolucao: {
     id: "evolucao",
     title: "Eduarda",
-    summary: "Iniciante Â· 3 dias por semana Â· Aproximadamente 60 minutos por sessÃ£o Â· Fortalecimento geral e desenvolvimento muscular, com Ãªnfase em glÃºteos e pernas e fortalecimento da parte superior do corpo.",
+    summary: "Iniciante · 3 dias por semana · Aproximadamente 60 minutos por sessão · Fortalecimento geral e desenvolvimento muscular, com ênfase em glúteos e pernas e fortalecimento da parte superior do corpo.",
     days: [
-      { id: "segunda", day: "Segunda-feira", shortDay: "Segunda", focus: "Treino A Â· ÃŠnfase em glÃºteos e pernas", session: "TREINO A", duration: "Aproximadamente 60 minutos, incluindo aquecimento", exercises: [
-        { id: "leg-press-45", name: "Leg Press 45Â°", sets: "3", reps: "12", instruction: "PÃ©s na largura dos ombros; flexione os joelhos e empurre a plataforma sem travÃ¡-los." },
-        { id: "hip-thrust", name: "ElevaÃ§Ã£o pÃ©lvica (Hip Thrust)", sets: "3", reps: "12", instruction: "Eleve o quadril contra a resistÃªncia, contraindo os glÃºteos no ponto mais alto." },
-        { id: "mesa-flexora", name: "Mesa flexora (Leg Curl)", sets: "2", reps: "12", instruction: "Flexione os joelhos levando os calcanhares para trÃ¡s e retorne devagar." },
-        { id: "puxada-frontal", name: "Puxada frontal (Pulley frente)", sets: "2", reps: "12", instruction: "Puxe a barra em direÃ§Ã£o ao peito, mantendo o tronco estÃ¡vel." },
+      { id: "segunda", day: "Segunda-feira", shortDay: "Segunda", focus: "Treino A · Ênfase em glúteos e pernas", session: "TREINO A", duration: "Aproximadamente 60 minutos, incluindo aquecimento", exercises: [
+        { id: "leg-press-45", name: "Leg Press 45°", sets: "3", reps: "12", instruction: "Pés na largura dos ombros; flexione os joelhos e empurre a plataforma sem travá-los." },
+        { id: "hip-thrust", name: "Elevação pélvica (Hip Thrust)", sets: "3", reps: "12", instruction: "Eleve o quadril contra a resistência, contraindo os glúteos no ponto mais alto." },
+        { id: "mesa-flexora", name: "Mesa flexora (Leg Curl)", sets: "2", reps: "12", instruction: "Flexione os joelhos levando os calcanhares para trás e retorne devagar." },
+        { id: "puxada-frontal", name: "Puxada frontal (Pulley frente)", sets: "2", reps: "12", instruction: "Puxe a barra em direção ao peito, mantendo o tronco estável." },
         { id: "supino-sentado", name: "Supino sentado (Chest Press)", sets: "2", reps: "12", instruction: "Empurre os pegadores para frente e retorne controladamente." },
-        { id: "abdominal-maquina", name: "Abdominal mÃ¡quina (Abdominal Crunch)", sets: "2", reps: "12", instruction: "Aproxime o tronco do quadril contraindo o abdÃ´men, sem puxar o pescoÃ§o." },
+        { id: "abdominal-maquina", name: "Abdominal máquina (Abdominal Crunch)", sets: "2", reps: "12", instruction: "Aproxime o tronco do quadril contraindo o abdômen, sem puxar o pescoço." },
       ] },
-      { id: "quarta", day: "Quarta-feira", shortDay: "Quarta", focus: "Treino B Â· ÃŠnfase em superiores e fortalecimento geral", session: "TREINO B", exercises: [
-        { id: "agachamento-smith", name: "Agachamento guiado (Smith Machine)", sets: "2", reps: "10", instruction: "Flexione joelhos e quadril, mantendo a coluna estÃ¡vel e os pÃ©s bem apoiados." },
-        { id: "cadeira-abdutora", name: "Cadeira abdutora", sets: "2", reps: "15", instruction: "Afaste as pernas contra a resistÃªncia e retorne devagar." },
-        { id: "remada-baixa", name: "Remada baixa", sets: "3", reps: "12", instruction: "Puxe o pegador em direÃ§Ã£o ao abdÃ´men, mantendo as costas firmes." },
+      { id: "quarta", day: "Quarta-feira", shortDay: "Quarta", focus: "Treino B · Ênfase em superiores e fortalecimento geral", session: "TREINO B", exercises: [
+        { id: "agachamento-smith", name: "Agachamento guiado (Smith Machine)", sets: "2", reps: "10", instruction: "Flexione joelhos e quadril, mantendo a coluna estável e os pés bem apoiados." },
+        { id: "cadeira-abdutora", name: "Cadeira abdutora", sets: "2", reps: "15", instruction: "Afaste as pernas contra a resistência e retorne devagar." },
+        { id: "remada-baixa", name: "Remada baixa", sets: "3", reps: "12", instruction: "Puxe o pegador em direção ao abdômen, mantendo as costas firmes." },
         { id: "desenvolvimento-ombros", name: "Desenvolvimento de ombros (Shoulder Press)", sets: "2", reps: "12", instruction: "Empurre os pegadores para cima e retorne sem movimentos bruscos." },
         { id: "cadeira-extensora", name: "Cadeira extensora (Leg Extension)", sets: "2", reps: "12", instruction: "Estenda as pernas e retorne lentamente, sem dar impulso." },
-        { id: "triceps-pulley", name: "TrÃ­ceps pulley", sets: "2", reps: "12", instruction: "Mantenha os cotovelos junto ao corpo e empurre a barra para baixo." },
+        { id: "triceps-pulley", name: "Tríceps pulley", sets: "2", reps: "12", instruction: "Mantenha os cotovelos junto ao corpo e empurre a barra para baixo." },
       ] },
-      { id: "sexta", day: "Sexta-feira", shortDay: "Sexta", focus: "Treino C Â· ÃŠnfase em glÃºteos e corpo todo", session: "TREINO C", exercises: [
-        { id: "stiff-halteres", name: "Stiff com halteres", sets: "2", reps: "10", instruction: "Leve o quadril para trÃ¡s, mantendo os joelhos levemente flexionados e a coluna neutra." },
-        { id: "coice-gluteo", name: "Coice de glÃºteo (polia baixa)", sets: "2", reps: "12 por perna", instruction: "Leve uma perna para trÃ¡s sem movimentar excessivamente a lombar." },
-        { id: "supino-maquina", name: "Supino mÃ¡quina (Chest Press)", sets: "2", reps: "12", instruction: "Empurre os pegadores para frente e retorne lentamente." },
-        { id: "rosca-biceps", name: "Rosca bÃ­ceps", sets: "2", reps: "12", instruction: "Flexione os cotovelos levando os pesos em direÃ§Ã£o aos ombros." },
+      { id: "sexta", day: "Sexta-feira", shortDay: "Sexta", focus: "Treino C · Ênfase em glúteos e corpo todo", session: "TREINO C", exercises: [
+        { id: "stiff-halteres", name: "Stiff com halteres", sets: "2", reps: "10", instruction: "Leve o quadril para trás, mantendo os joelhos levemente flexionados e a coluna neutra." },
+        { id: "coice-gluteo", name: "Coice de glúteo (polia baixa)", sets: "2", reps: "12 por perna", instruction: "Leve uma perna para trás sem movimentar excessivamente a lombar." },
+        { id: "supino-maquina", name: "Supino máquina (Chest Press)", sets: "2", reps: "12", instruction: "Empurre os pegadores para frente e retorne lentamente." },
+        { id: "rosca-biceps", name: "Rosca bíceps", sets: "2", reps: "12", instruction: "Flexione os cotovelos levando os pesos em direção aos ombros." },
         { id: "cadeira-abdutora", name: "Cadeira abdutora", sets: "2", reps: "15", instruction: "Afaste as pernas controladamente e retorne devagar." },
-        { id: "prancha-abdominal", name: "Prancha abdominal", sets: "2", reps: "20 segundos", instruction: "Apoie antebraÃ§os e pontas dos pÃ©s, mantendo o corpo alinhado." },
+        { id: "prancha-abdominal", name: "Prancha abdominal", sets: "2", reps: "20 segundos", instruction: "Apoie antebraços e pontas dos pés, mantendo o corpo alinhado." },
       ] },
     ],
     schedule: true,
@@ -86,8 +86,8 @@ function loadRecords() {
       calories: saved.calories && typeof saved.calories === "object" ? saved.calories : {},
       navigation: saved.navigation && typeof saved.navigation === "object" ? saved.navigation : {},
     };
-    // Registros da versÃ£o original nÃ£o tinham o identificador da ficha. Preserve-os
-    // associando-os Ã  ficha original, sem remover nem sobrescrever as chaves antigas.
+    // Registros da versão original não tinham o identificador da ficha. Preserve-os
+    // associando-os à ficha original, sem remover nem sobrescrever as chaves antigas.
     for (const type of ["completed", "weights"]) {
       for (const [key, value] of Object.entries(migrated[type])) {
         const separator = key.indexOf(":");
@@ -113,7 +113,7 @@ function saveRecords() {
   const days = records.navigation.days && typeof records.navigation.days === "object" ? records.navigation.days : {};
   days[selectedProfileId] = selectedDayId;
   records.navigation = { profileId: selectedProfileId, dayId: selectedDayId, days };
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(records)); } catch { /* A interface continua utilizÃ¡vel se o armazenamento estiver indisponÃ­vel. */ }
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(records)); } catch { /* A interface continua utilizável se o armazenamento estiver indisponível. */ }
 }
 function recordKey(dayId, itemId) { return `${selectedProfileId}:${dayId}:${itemId}`; }
 function currentProfile() { return workoutPlans[selectedProfileId]; }
@@ -126,7 +126,7 @@ function renderDayNav() {
   dayNav.innerHTML = currentProfile().days.map((plan, index) => {
     const active = plan.id === selectedDayId;
     return `<button class="day-tab${active ? " is-active" : ""}" type="button" data-day="${plan.id}" aria-pressed="${active}" ${active ? 'aria-current="page"' : ""}>
-      <span class="day-tab-index">0${index + 1}</span><span class="day-tab-name">${plan.shortDay}</span><span class="day-tab-arrow" aria-hidden="true">â†—</span></button>`;
+      <span class="day-tab-index">0${index + 1}</span><span class="day-tab-name">${plan.shortDay}</span><span class="day-tab-arrow" aria-hidden="true">↗</span></button>`;
   }).join("");
 }
 function renderExercise(exercise, index, plan) {
@@ -135,29 +135,29 @@ function renderExercise(exercise, index, plan) {
   const weight = records.weights[key] ?? "";
   return `<article class="exercise-card${complete ? " is-complete" : ""}" data-card-key="${key}">
     <div class="exercise-copy"><span class="exercise-index">${String(index + 1).padStart(2, "0")}</span><div class="exercise-description">
-      <p class="exercise-category">MUSCULAÃ‡ÃƒO</p><h3>${exercise.name}</h3>
-      <p class="exercise-meta"><span>${exercise.sets} sÃ©ries</span><span class="meta-dot">Â·</span><span>${exercise.reps}</span></p>
+      <p class="exercise-category">MUSCULAÇÃO</p><h3>${exercise.name}</h3>
+      <p class="exercise-meta"><span>${exercise.sets} séries</span><span class="meta-dot">·</span><span>${exercise.reps}</span></p>
       ${exercise.instruction ? `<p class="exercise-instruction">${exercise.instruction}</p>` : ""}
     </div></div><div class="exercise-actions">
-      <label class="weight-control"><span class="control-caption">CARGA</span><span class="number-field"><input type="number" min="0" step="0.1" inputmode="decimal" placeholder="â€”" value="${escapeAttribute(weight)}" data-field="weight" data-key="${key}" aria-label="Peso utilizado em ${exercise.name}, em quilogramas" /><span>kg</span></span></label>
-      <label class="completion-control" title="Marcar ${exercise.name} como concluÃ­do"><input class="completion-input" type="checkbox" data-field="completed" data-key="${key}" aria-label="Marcar ${exercise.name} como concluÃ­do" ${complete ? "checked" : ""} /><span class="completion-box" aria-hidden="true"><span>âœ“</span></span></label>
+      <label class="weight-control"><span class="control-caption">CARGA</span><span class="number-field"><input type="number" min="0" step="0.1" inputmode="decimal" placeholder="—" value="${escapeAttribute(weight)}" data-field="weight" data-key="${key}" aria-label="Peso utilizado em ${exercise.name}, em quilogramas" /><span>kg</span></span></label>
+      <label class="completion-control" title="Marcar ${exercise.name} como concluído"><input class="completion-input" type="checkbox" data-field="completed" data-key="${key}" aria-label="Marcar ${exercise.name} como concluído" ${complete ? "checked" : ""} /><span class="completion-box" aria-hidden="true"><span>✓</span></span></label>
     </div></article>`;
 }
 function renderCardio(plan, index) {
   const key = recordKey(plan.id, "aerobico");
   const complete = Boolean(records.completed[key]);
   const calories = records.calories[key] ?? "";
-  return `<div class="aerobic-divider"><span></span><p>FINALIZAÃ‡ÃƒO</p><span></span></div>
+  return `<div class="aerobic-divider"><span></span><p>FINALIZAÇÃO</p><span></span></div>
     <article class="cardio-card${complete ? " is-complete" : ""}" data-card-key="${key}">
-      <div class="cardio-topline"><span class="cardio-label"><span class="cardio-label-dot"></span>AERÃ“BICO</span><span class="cardio-step">ATIVIDADE 0${index + 1}</span></div>
+      <div class="cardio-topline"><span class="cardio-label"><span class="cardio-label-dot"></span>AERÓBICO</span><span class="cardio-step">ATIVIDADE 0${index + 1}</span></div>
       <div class="cardio-content"><div class="cardio-intro"><span class="cardio-icon" aria-hidden="true">${plan.cardio.icon}</span><div><p class="cardio-overline">APARELHO</p><h3>${plan.cardio.machine}</h3></div></div>
-        <div class="cardio-goals" aria-label="Metas informativas"><div><span>MÃNIMA</span><strong>150 <small>kcal</small></strong></div><div><span>DESEJÃVEL</span><strong>175â€“200 <small>kcal</small></strong></div></div>
-        <div class="cardio-record"><label class="calorie-control"><span class="control-caption">VISOR DO APARELHO</span><span class="number-field calorie-field"><input type="number" min="0" step="any" inputmode="decimal" placeholder="â€”" value="${escapeAttribute(calories)}" data-field="calories" data-key="${key}" aria-label="Calorias exibidas no aparelho de ${plan.cardio.machine}" /><span>kcal</span></span></label>
-          <label class="completion-control cardio-completion" title="Marcar aerÃ³bico como concluÃ­do"><input class="completion-input" type="checkbox" data-field="completed" data-key="${key}" aria-label="Marcar aerÃ³bico como concluÃ­do" ${complete ? "checked" : ""} /><span class="completion-box" aria-hidden="true"><span>âœ“</span></span></label></div>
+        <div class="cardio-goals" aria-label="Metas informativas"><div><span>MÍNIMA</span><strong>150 <small>kcal</small></strong></div><div><span>DESEJÁVEL</span><strong>175–200 <small>kcal</small></strong></div></div>
+        <div class="cardio-record"><label class="calorie-control"><span class="control-caption">VISOR DO APARELHO</span><span class="number-field calorie-field"><input type="number" min="0" step="any" inputmode="decimal" placeholder="—" value="${escapeAttribute(calories)}" data-field="calories" data-key="${key}" aria-label="Calorias exibidas no aparelho de ${plan.cardio.machine}" /><span>kcal</span></span></label>
+          <label class="completion-control cardio-completion" title="Marcar aeróbico como concluído"><input class="completion-input" type="checkbox" data-field="completed" data-key="${key}" aria-label="Marcar aeróbico como concluído" ${complete ? "checked" : ""} /><span class="completion-box" aria-hidden="true"><span>✓</span></span></label></div>
       </div></article>`;
 }
 function renderSchedule() {
-  return `<section class="schedule-card"><h3>OrganizaÃ§Ã£o dos 60 minutos</h3><div><span>Aquecimento</span><strong>5â€“8 min</strong></div><div><span>ExercÃ­cios de musculaÃ§Ã£o</span><strong>40â€“45 min</strong></div><div><span>AbdÃ´men ou cardio leve</span><strong>5 min</strong></div><div><span>Alongamento leve</span><strong>2â€“3 min</strong></div><p>TerÃ§a-feira, quinta-feira e fim de semana: descanso ou atividade leve, conforme disposiÃ§Ã£o.</p></section>`;
+  return `<section class="schedule-card"><h3>Organização dos 60 minutos</h3><div><span>Aquecimento</span><strong>5–8 min</strong></div><div><span>Exercícios de musculação</span><strong>40–45 min</strong></div><div><span>Abdômen ou cardio leve</span><strong>5 min</strong></div><div><span>Alongamento leve</span><strong>2–3 min</strong></div><p>Terça-feira, quinta-feira e fim de semana: descanso ou atividade leve, conforme disposição.</p></section>`;
 }
 function renderWorkout() {
   const plan = currentPlan();
@@ -167,9 +167,9 @@ function renderWorkout() {
   const done = plan.exercises.filter((exercise) => records.completed[recordKey(plan.id, exercise.id)]).length;
   const progress = Math.round(done / total * 100);
   workoutPanel.innerHTML = `<div class="workout-heading"><div><div class="session-label"><span class="session-line"></span>${plan.session}<span class="session-line"></span></div><h2>${plan.day}</h2><p class="workout-focus">${plan.focus}</p>${plan.duration ? `<p class="workout-duration">${plan.duration}</p>` : ""}</div>
-      <button class="text-button" type="button" data-action="clear-day"><span aria-hidden="true">â†º</span> Limpar progresso do dia</button></div>
-    <section class="progress-card" aria-label="Progresso do treino"><div class="progress-copy"><span class="progress-kicker">SEU PROGRESSO</span><strong><span data-progress-count>${done}</span><span class="progress-divider">/</span>${total}<small> exercÃ­cios concluÃ­dos</small></strong></div><span class="progress-percent" data-progress-percent>${progress}%</span><div class="progress-track" role="progressbar" aria-label="ExercÃ­cios concluÃ­dos" aria-valuemin="0" aria-valuemax="${total}" aria-valuenow="${done}"><span class="progress-fill" data-progress-fill style="width: ${progress}%"></span></div></section>
-    <div class="section-heading"><div><span class="section-number">01</span><h3>ExercÃ­cios do dia</h3></div><span class="section-count">${String(total).padStart(2, "0")} exercÃ­cios</span></div>
+      <button class="text-button" type="button" data-action="clear-day"><span aria-hidden="true">↺</span> Limpar progresso do dia</button></div>
+    <section class="progress-card" aria-label="Progresso do treino"><div class="progress-copy"><span class="progress-kicker">SEU PROGRESSO</span><strong><span data-progress-count>${done}</span><span class="progress-divider">/</span>${total}<small> exercícios concluídos</small></strong></div><span class="progress-percent" data-progress-percent>${progress}%</span><div class="progress-track" role="progressbar" aria-label="Exercícios concluídos" aria-valuemin="0" aria-valuemax="${total}" aria-valuenow="${done}"><span class="progress-fill" data-progress-fill style="width: ${progress}%"></span></div></section>
+    <div class="section-heading"><div><span class="section-number">01</span><h3>Exercícios do dia</h3></div><span class="section-count">${String(total).padStart(2, "0")} exercícios</span></div>
     <div class="exercise-list">${plan.exercises.map((exercise, index) => renderExercise(exercise, index, plan)).join("")}</div>
     ${plan.cardio ? renderCardio(plan, plan.exercises.length) : ""}${currentProfile().schedule ? renderSchedule() : ""}
     <div class="restore-row"><span>Os registros ficam salvos neste dispositivo.</span></div>`;
